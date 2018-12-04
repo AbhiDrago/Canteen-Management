@@ -1,4 +1,4 @@
-# CanteenManagement
+# Canteen Management
 
 The Canteen Management System project is able to provide fast
 service to their customers by using their records which has been
